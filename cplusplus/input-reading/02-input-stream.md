@@ -19,7 +19,7 @@ Now that we have some data from the user, it's time to do something with that da
 
 ![Imgur](https://i.imgur.com/y89A7Is.png)
 
-Finally, what this code might produce with a user named Greg.
+Finally, an interaction that might occur with a user named Greg:
 
 ![Imgur](https://i.imgur.com/XCECpZy.png)
 
