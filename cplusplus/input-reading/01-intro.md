@@ -10,3 +10,8 @@ I am personally not a fan of the teaching methods that start with useless or wro
 
 **Note**  
 It requires a lot of extra effort, but instead of using github's dissapointing syntax coloring, I'm going to include images wherever example code is shown. This also makes you type the code yourself. It's a win win.
+
+<br>
+
+Next: I recommend reading about [input streams](./02-input-stream.md) before files.
+
