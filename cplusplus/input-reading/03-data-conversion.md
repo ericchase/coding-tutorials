@@ -1,4 +1,4 @@
-**More often than not, your program will work with numberic data instead of simple text.**
+**More often than not, your program will work with numeric data instead of simple text.**
 
 #### Headers
 The [``sstream``](http://www.cplusplus.com/reference/sstream/stringstream/) header file allows us to use the useful stringstream object.
@@ -36,5 +36,5 @@ Possible interactions:
 
 <br>
 
-Next: Reading from a [file](./03-file.md) can be done with little to no extra effort.
+Next: Reading from a file can be done with little to no extra effort using input [redirection](04-redirection.md).
 
