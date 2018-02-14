@@ -1,9 +1,9 @@
 **More often than not, your program will work with numberic data instead of simple text.**
 
 #### Headers
-#include<iostream>
-#include<string>
-#include<sstream>
+The [``sstream``](http://www.cplusplus.com/reference/sstream/stringstream/) header file allows us to use the useful stringstream object.
+
+![Imgur](https://i.imgur.com/INcazkt.png)
 
 #### String to Int
 Strings are nice, but things get more interesting when numbers are involved. As mentioned before, I *always* use a string object to get input from the user. If you try to store data into a variable that cannot handle it, then the input stream will enter an error state and stop working. It's easier to check what kind of data you have *after* storing it into a string object.
