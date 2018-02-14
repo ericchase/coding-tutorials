@@ -1,4 +1,4 @@
-**More often than not, your program will require numberic data instead of simple text.**
+**More often than not, your program will work with numberic data instead of simple text.**
 
 #### Headers
 #include<iostream>
