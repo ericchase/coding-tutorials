@@ -25,6 +25,11 @@ Finally, a for each loop iterates the vector of valid data, printing it out to t
 
 ![Imgur](https://i.imgur.com/ktkbM2T.png)
 
+#### Output
+The line with data not in the proper format gets skipped, as expected.
+
+![Imgur](https://i.imgur.com/nPwuQJA.png)
+
 #### Sample
 Altogether.
 
