@@ -6,11 +6,8 @@ The [``string``](http://www.cplusplus.com/reference/string/string/) header file 
 
 ![Imgur](https://i.imgur.com/scSZgyF.png)
 
-**Note**  
-Some people may have led you to believe that `using namespace std;` is common practice; but this is not the case for professional quality code. I personally do not outright condemn its usage, as the feature exists for a reason. In general, if you don't know **why** you should use something, then you probably don't need to use it. Being adventurous is fun, but save it for experimental projects only. Be weary of copying what someone else does without knowing why.
-
 #### Simple Example
-First, we need some sort of object to hold the data we want to retrieve from the user. I **always** opt for a string object, because the input stream can store *anything* into a string. After all, everything we type is just characters. Next, take a look at the syntax used for writing to the console and reading from it. Correct syntax is required. Attention to detail is also important. Notice the space between the `:` and the `"`. Asking the user to enter some data is called *prompting*.
+First, we need some sort of object to hold the data we want to retrieve from the user. I **always** opt for a string object, because the input stream can store *anything* as a string. After all, everything we type is just characters. Next, take a look at the syntax used for writing to the console and reading from it. Correct syntax is required. Attention to detail is also important to make a good impression on your user. Notice the space between the `:` and the `"`. Asking the user to enter some data is called *prompting*.
 
 ![Imgur](https://i.imgur.com/EJKIjsA.png)
 
